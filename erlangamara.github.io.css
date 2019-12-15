@@ -63,6 +63,23 @@ footer p{
 	margin: 0 auto;
 }
 
+button{
+	display: inline-block;
+}
+
+.checkbutton{
+	background-color: #555555;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	width: 125px;
+	position: relative;
+	top: 83px;
+	margin: 10px 175px;
+}
+
 .foto{
 	margin: 42px 626px;
 	position: relative;
@@ -85,7 +102,7 @@ footer p{
 
 .about{
 	position: relative;
-	bottom: 143px;
+	bottom: 56px;
 }
 
 .skills{
